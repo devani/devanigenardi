@@ -1,0 +1,4 @@
+- touch file.txt // create an element
+- git add --all // add all the files
+- git commit -m "" // commit the files but you have to add an message
+- git push // to make the push of the file 
