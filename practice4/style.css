@@ -1,0 +1,7 @@
+body {margin: 0px; padding: 0px; font-family: arial; font-size: 12px;}
+#cont { margin: 0 auto}
+ul {height: auto; overflow: hidden; padding: 0px; margin-top: 10px}
+li {display: block; list-style-type: none; width: 100px; height: 25px; text-align: center; line-height: 24px; float: left; border-bottom: 1px solid #fff; border-right: 1px solid #fff; text-decoration: none; color: #000; background: #ccc;}
+a {float: left; background: #ccc; padding: 0px 10px;}
+#btn { background: #429af4; color: white; padding: 8px 16px; cursor: pointer; border: 0px; font-size: 12px; margin-top: 20px; border: 0px; display: block;}
+.breake {clear: both;}
